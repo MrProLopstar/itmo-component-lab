@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: ghcr.io/${{ github.repository_owner }}/itmo-component-lab
+  IMAGE_NAME: ghcr.io/mrprolopstar/itmo-component-lab
   ISU: "563858"
 
 jobs:
